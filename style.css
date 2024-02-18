@@ -1,0 +1,19 @@
+body {
+    background-color: #171a4a;
+    color: #e8c39e;
+}
+
+
+
+
+.media{ 
+    background-color: #b34e94;
+}
+
+.image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
